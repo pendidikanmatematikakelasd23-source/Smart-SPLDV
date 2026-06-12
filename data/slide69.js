@@ -1,0 +1,11 @@
+(function(){var loadHandler=window['sl_{DFC40092-1F08-4DD6-8117-C2FA1CFC9D5E}'];loadHandler&&loadHandler(68, '<div id="spr0_3c720b49"><div id="spr1_3c720b49" class="kern slide"><img id="img6_3c720b49" src="data/img6.png" width="1440px" height="810px" alt="" style="left:0px;top:0px;"/></div><div id="spr2_3c720b49" class="kern slide"><div id="spr3_3c720b49"><img id="img0_3c720b49" src="data/img13.png" width="1440" height="810" alt=""/></div><div id="spr4_3c720b49" style="left:66px;top:167.336px;"><img id="img1_3c720b49" src="data/img90.png" width="1319.772" height="603.664" alt=""/></div><div id="spr5_3c720b49" style="left:95.267px;top:197.373px;"><div style="width:0px;"><span id="txt0_3c720b49" data-width="99.008003" style="left:37.668px;top:4.707px;">Solusi:</span></div></div><div id="spr6_3c720b49" style="left:140px;top:266px;"><img id="img2_3c720b49" src="data/img98.png" width="643" height="457" alt="𝑥+𝑦=5 \
+𝑥−𝑦=1  \
+Metode: Eliminasi\
+Langkah 1: Hilangkan salah satu variabel\
+Kita jumlahkan kedua persamaan:\
+ 𝑥+𝑦 + 𝑥−𝑦 =5+1 \
+Langkah 2: Sederhanakan\
+𝑥+𝑦+𝑥−𝑦=6 \
+2𝑥=6 "/></div><div id="spr7_3c720b49" style="left:871px;top:228px;"><img id="img3_3c720b49" src="data/img99.png" width="295" height="181" alt="Langkah 3: Cari 𝑥\
+𝑥= 6 2 =3 \
+Jawaban: c (𝑥=3)"/></div><div id="spr8_3c720b49" style="left:1284px;top:61.891px;"><a id="hl0_3c720b49" href="#" onclick="document.getElementById(\'coreSpr_1014061828\').getCore().processTriggerEffect(this);document.getElementById(\'coreSpr_1014061828\').getCore().playHyperlinkSound(\'sound68\', this);document.getElementById(\'coreSpr_1014061828\').getCore().gotoSlide(49, this);return false;"><img id="img4_3c720b49" src="data/img27.png" width="88.725" height="96.01" alt=""/></a></div><div id="spr9_3c720b49" style="left:528px;top:51px;"><img id="img5_3c720b49" src="data/img8.png" width="414" height="88" alt=""/></div><div id="spr10_3c720b49" style="left:471.785px;top:59.082px;"><div style="width:0px;"><span id="txt1_3c720b49" data-width="259.104004" style="left:132.555px;top:-1.425px;">pembahasan</span></div></div></div></div>', '{"s":[]}');})();

@@ -1,0 +1,9 @@
+(function(){var loadHandler=window['sl_{DFC40092-1F08-4DD6-8117-C2FA1CFC9D5E}'];loadHandler&&loadHandler(65, '<div id="spr0_3c72032b"><div id="spr1_3c72032b" class="kern slide"><img id="img5_3c72032b" src="data/img6.png" width="1440px" height="810px" alt="" style="left:0px;top:0px;"/></div><div id="spr2_3c72032b" class="kern slide"><div id="spr3_3c72032b"><img id="img0_3c72032b" src="data/img13.png" width="1440" height="810" alt=""/></div><div id="spr4_3c72032b" style="left:312px;top:167.336px;"><img id="img1_3c72032b" src="data/img93.png" width="846" height="603.664" alt=""/></div><div id="spr5_3c72032b" style="left:380px;top:282px;"><img id="img2_3c72032b" src="data/img94.png" width="494" height="431" alt="Bandingkan dengan bentuk umum:\
+𝑎𝑥+𝑏𝑦=𝑐 \
+Maka:\
+𝑎=3 → koefisien 𝑥\
+ 𝑏=2 → koefisien 𝑦\
+Jadi:\
+koefisien 𝑥 = 3\
+koefisien 𝑦 = 2\
+Jawaban: c (3 dan 2)"/></div><div id="spr6_3c72032b" style="left:341.624px;top:199.805px;"><div style="width:0px;"><span id="txt0_3c72032b" data-width="99.008003" style="left:37.668px;top:4.707px;">Solusi:</span></div></div><div id="spr7_3c72032b" style="left:1284px;top:61.891px;"><a id="hl0_3c72032b" href="#" onclick="document.getElementById(\'coreSpr_1014061828\').getCore().processTriggerEffect(this);document.getElementById(\'coreSpr_1014061828\').getCore().playHyperlinkSound(\'sound65\', this);document.getElementById(\'coreSpr_1014061828\').getCore().gotoSlide(40, this);return false;"><img id="img3_3c72032b" src="data/img27.png" width="88.725" height="96.01" alt=""/></a></div><div id="spr8_3c72032b" style="left:528px;top:51px;"><img id="img4_3c72032b" src="data/img8.png" width="414" height="88" alt=""/></div><div id="spr9_3c72032b" style="left:471.785px;top:59.082px;"><div style="width:0px;"><span id="txt1_3c72032b" data-width="259.104004" style="left:132.555px;top:-1.425px;">pembahasan</span></div></div></div></div>', '{"s":[]}');})();
